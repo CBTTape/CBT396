@@ -1,0 +1,5 @@
+2023-08-06 03:51:03.393390 - Initialized conversion of CBT396
+2023-08-06 03:51:03.413391 - Received CBT.V505.FILE396.PDS from FILE396.XMI 
+2023-08-06 03:51:03.415457 - Found $$DOC.txt (text/plain) in CBT.V505.FILE396.PDS, moved to PDS/$$DOC
+2023-08-06 03:51:03.416508 - Found @FILE396.txt (text/plain) in CBT.V505.FILE396.PDS, moved to PDS/@FILE396
+2023-08-06 03:51:03.417466 - Found FINDSTR.rexx (text/plain) in CBT.V505.FILE396.PDS, moved to PDS/FINDSTR
